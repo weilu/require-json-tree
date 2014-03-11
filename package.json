@@ -1,0 +1,14 @@
+{
+  "name": "require-json-tree",
+  "version": "1.0.0",
+  "description": "Load a directory containing json files into a hash keyed by filenames",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter list test/*.js"
+  },
+  "author": "Wei Lu",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^1.17.1"
+  }
+}
