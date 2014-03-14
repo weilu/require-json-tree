@@ -1,6 +1,6 @@
 {
   "name": "require-json-tree",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Load a directory containing json files into a hash keyed by filenames",
   "main": "index.js",
   "scripts": {
